@@ -33774,7 +33774,7 @@ this.b.e5()},
 $S:9}
 A.Bk.prototype={
 R(a){var s=null
-return new A.t4(new A.ug(new A.pP(new A.uW("Apple",s,s,s,s),new A.I2(s,s,1/0,56),s),A.MN(new A.t0(new A.yz("assets/lottie/apple.json",s,s,s,s,!1),s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),s,s),s),s)}}
+return new A.t4(new A.ug(new A.pP(new A.uW("Apple",s,s,s,s),new A.I2(s,s,1/0,56),s),A.MN(new A.t0(new A.yz("lottie/apple.json",s,s,s,s,!1),s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),s,s),s),s)}}
 A.yu.prototype={
 B(a,b){var s,r=this.b,q=b.a,p=r.k(0,q)
 if(p!=null){this.a[p]=b
